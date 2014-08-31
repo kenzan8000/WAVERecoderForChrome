@@ -1,7 +1,7 @@
 # WAVERecoder
 ===============
 
-![screenshot](https://raw2.github.com/kenzan8000/WAVERecoder/master/screenshot/screenshot.png "screenshot")
+![screenshot](https://raw2.github.com/kenzan8000/WAVERecoderForChrome/master/screenshot/screenshot.png "screenshot")
 
 Extension for Google Chrome to record something extraneous sound as wave.
 
